@@ -103,17 +103,10 @@ The project uses Tailwind CSS for styling. You can customize:
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
+### Project Url (Vercel)
 
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy with one click
+-- [https://teacher-management-tau.vercel.app/]
 
-### Other Platforms
-
-- **Netlify**: Build command `npm run build`, publish directory `.next`
-- **AWS Amplify**: Supports Next.js out of the box
-- **Docker**: Use the provided Dockerfile
 
 ## 📈 Performance
 
@@ -122,30 +115,12 @@ The project uses Tailwind CSS for styling. You can customize:
 - **Bundle Size**: Optimized with Next.js
 - **Images**: Optimized with Next.js Image component
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Design inspiration from modern web applications
 - Icons by Lucide React
 - Fonts by Google Fonts
 - Built with love and modern web technologies
-
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Contact: your-email@example.com
 
 ---
 
