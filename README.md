@@ -25,7 +25,7 @@ A beautiful, responsive, and feature-rich teacher management system built with N
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/teacher-management.git
+git clone https://github.com/Ritik11131/teacher-management.git
 cd teacher-management
 ```
 
@@ -149,4 +149,4 @@ If you have any questions or need help, please:
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Ritik Gupta
