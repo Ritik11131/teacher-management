@@ -107,6 +107,10 @@ The project uses Tailwind CSS for styling. You can customize:
 
 -- [https://teacher-management-tau.vercel.app/]
 
+### Loom Video Link
+
+--- [https://drive.google.com/file/d/10OhwrdFaCwECCQq4Crb4I6QSMIJc7MOa/view?usp=drive_link]
+
 
 ## 📈 Performance
 
